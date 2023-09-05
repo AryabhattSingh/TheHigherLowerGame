@@ -267,7 +267,7 @@ data = [
         'name': 'Ronaldinho',
         'follower_count': 74.5,
         'description': 'Footballer',
-        'country': 'Brasil'
+        'country': 'Brazil'
     },
     {
         'name': 'Maluma',
